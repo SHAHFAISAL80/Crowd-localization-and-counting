@@ -117,10 +117,7 @@ About the leaderboard on the test set, please visit [Crowd benchmark](https://ww
 
 
 
-# Video Demo
 
-We test the pretrained HR Net model on the NWPU dataset in a real-world subway scene. Please visit [bilibili](https://www.bilibili.com/video/BV1K541157MK) or [YouTube](https://www.youtube.com/watch?v=GqOMgjUkbsI) to watch the video demonstration.
-![val_curve](./figures/vid.png)
 # Citation
 If you find this project is useful for your research, please cite:
 ```
@@ -142,5 +139,7 @@ Our code borrows a lot from the C^3 Framework, and you may cite:
 }
 ```
 If you use pre-trained models in this repo (HR Net, VGG, and FPN), please cite them. 
+
+
 
 
